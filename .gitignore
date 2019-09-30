@@ -1,0 +1,11 @@
+*.gz
+*.aux
+*.toc
+*.log
+*.nav
+*~
+*.mod
+*.exe
+*.out 
+*#
+*.o

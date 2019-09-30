@@ -1,2 +1,6 @@
-# gatech_optimization101
-This is a workshop given at Georgia Institute of Technology on optimization of serial applications following a problem-based approach. 
+# Optimization 101
+Christopher Blanton
+chris.blanton@gatech.edu
+The Georgia Institute of Technology
+10/02/2019
+
