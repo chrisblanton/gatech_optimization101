@@ -6,7 +6,7 @@ chris.blanton@gatech.edu
 
 The Georgia Institute of Technology
 
-3/18/2020
+7/8/2020
 
 
 # Introduction
@@ -14,5 +14,7 @@ The Georgia Institute of Technology
 An introduction to optimization of a serial Jacobi Solver.
 
 
-Given on 3/18/2020 at the Georgia Institute of Technology.
+Given on 7/8/2020 at the Georgia Institute of Technology.
+
+
 
