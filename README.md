@@ -6,7 +6,7 @@ chris.blanton@gatech.edu
 
 The Georgia Institute of Technology
 
-7/8/2020
+2/16/2021
 
 
 # Introduction
@@ -14,7 +14,15 @@ The Georgia Institute of Technology
 An introduction to optimization of a serial Jacobi Solver.
 
 
-Given on 7/8/2020 at the Georgia Institute of Technology.
+Given on 2/16/2021 at the Georgia Institute of Technology.
+
+
+# Intel Amplifier
+Do the following to get the Intel Amplifier in the path to use it
+```
+source ./source-amp.sh
+```
+
 
 
 
